@@ -1,8 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background-color: #87CEEB; /* Sky blue background color */
-  background-image: url('/public/background.png');
+  background-color: #000; 
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -120,7 +119,7 @@ body {
   position: absolute;
   bottom: 0;
   right: -20px;
-  animation: moveObstacle 2s infinite linear;
+  animation: moveObstacle 1s infinite linear;
 }
 
 @keyframes moveObstacle {
