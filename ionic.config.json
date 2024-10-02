@@ -1,0 +1,7 @@
+{
+    "name": "Trackstars",
+    "integrations": {
+      "capacitor": {}
+    },
+    "type": "react"
+  }
